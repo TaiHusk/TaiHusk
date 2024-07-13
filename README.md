@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://github.com/TaiHusk/TaiHusk/blob/main/image.jpg" alt="TaiHusk's Github Profile Picture" width="5000" height="400" />
-  <h1> TaiHusk </h1>
+  <h1> Tai Husk </h1>
   <p><em>Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 </div>
 
 ### 🌟 About Me
 
-Hello! I'm TaiHusk, a Software developer with  pushing the boundaries of programming languages and technology. With a keen interest in both practical and theoretical aspects of programming, I've dedicated my career to creating innovative solutions and contributing to the programming community.
+Hello! I'm Tai Husk, a Software developer with  pushing the boundaries of programming languages and technology. With a keen interest in both practical and theoretical aspects of programming, I've dedicated my career to creating innovative solutions and contributing to the programming community.
 
 ### 💼 Current Roles
 
