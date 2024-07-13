@@ -16,6 +16,7 @@ Hello! I'm Tai Husk, a Software developer with  pushing the boundaries of progra
 
 ## 🎯 Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaiHusk&repo=CXX29&theme=transparent&hide_border=true#gh-dark-mode-only)](https://github.com/TaiHusk/CXX29)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaiHusk&repo=PENV&theme=transparent&hide_border=true#gh-dark-mode-only)](https://github.com/TaiHusk/PENV)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TaiHusk&show_icons=true&theme=transparent&hide_border=true#gh-dark-mode-only)](https://github.com/TaiHusk)
 
