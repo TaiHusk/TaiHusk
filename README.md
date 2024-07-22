@@ -15,6 +15,7 @@ Hello! I'm Tai Husk, a Software developer with  pushing the boundaries of progra
 **Creator of ([C++ 29](https://github.com/TaiHusk/CXX29))**: I'm thrilled to have created C++ 29, an ambitious project aimed at evolving the C++ language to meet the needs of modern software development. This project represents my commitment to enhancing and expanding the capabilities of C++.
 
 ## 🎯 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaiHusk&repo=killua&theme=transparent&hide_border=true#gh-dark-mode-only)](https://github.com/TaiHusk/killua)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaiHusk&repo=CXX29&theme=transparent&hide_border=true#gh-dark-mode-only)](https://github.com/TaiHusk/CXX29)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaiHusk&repo=PENV&theme=transparent&hide_border=true#gh-dark-mode-only)](https://github.com/TaiHusk/PENV)
 
