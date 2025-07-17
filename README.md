@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/TaiHusk/TaiHusk/blob/main/image.jpg" alt="TaiHusk's Github Profile Picture" width="5000" height="400" />
+<!--   <img src="https://github.com/TaiHusk/TaiHusk/blob/main/image.jpg" alt="TaiHusk's Github Profile Picture" width="5000" height="400" /> -->
+  <img width="1536" height="1024" alt="background_meme_AsmX" src="https://github.com/user-attachments/assets/782e2d75-00aa-4e5c-a472-932f3c5ccdc3" />
+
   <h1> Tai Husk </h1>
   <p><em>Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 </div>
